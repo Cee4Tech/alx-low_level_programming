@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - prints "with proper grammer, but the outcome is a piece of art,"
- * Return: Always 0.
+ * main - A program that a line using the printf function
+ * Return 0 (success)
  *
  */
 
 int main(void)
 
 {
-	printf("with proper grammer, but the outcome is a piece of art,\n");
+	printf("with proper grammer, but the outcome is a piece of art,\nn");
 	return (0);
+
 }
