@@ -1,5 +1,4 @@
-#include "main.h"
-
+int _putchar "main.h"
 /**
  * main - main function
  * _putchar - prints the alphabets putchar
